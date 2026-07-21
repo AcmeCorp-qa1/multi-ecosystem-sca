@@ -1,0 +1,11 @@
+{
+  "name": "example/composer-sca-test-project",
+  "description": "Sample PHP project for SCA/dependency scanner testing",
+  "require": {
+    "symfony/http-kernel": "4.2.0",
+    "guzzlehttp/guzzle": "6.3.3",
+    "laravel/framework": "5.7.0",
+    "phpmailer/phpmailer": "6.0.6",
+    "monolog/monolog": "1.23.0"
+  }
+}
